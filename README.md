@@ -1,0 +1,2 @@
+# ubuntu_software_plugins
+安装完ubuntu16.04后每次安装软件都需要手动安装插件和一些环境，因此写个脚本方便下次重新安装
