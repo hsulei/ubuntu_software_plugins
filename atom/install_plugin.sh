@@ -16,7 +16,7 @@ apm install vim-mode-plus && \
 apm install relative-numbers && \
 apm install color-picker && \
 apm install autocomplete-paths && \
-apm install tree-view-git-statusa && \
+apm install tree-view-git-status && \
 apm install emmet && \
 apm install pigments && \
 apm install docblockr && \
@@ -28,8 +28,7 @@ apm install language-babel && \
 apm install autocomplete-css && \
 apm install autocomplete-modules && \
 apm install git-plus && \
-apm install brewser-plus && \
-apm install git-time-machine && \
+# apm install git-time-machine && \
 apm install autocomplete-python && \
 apm install hydrogen && \
 apm install hyperclick && \
