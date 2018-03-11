@@ -33,4 +33,13 @@ apm install autocomplete-python && \
 apm install hydrogen && \
 apm install hyperclick && \
 apm install go-plus && \
-apm install language-docker
+apm install language-docker && \
+apm install language-gradle language-groovy && \
+apm install language-vue && \
+apm install autocomplete-java && \
+apm install autocomplete-plus  && \
+apm install atom-ctags && \
+apm install javascript-snippets && \
+apm install  go-to-line && \
+apm install jshint && \
+apm install csslint 
